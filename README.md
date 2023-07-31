@@ -462,4 +462,4 @@ Add GIF98 and upload and rename .php.jgp
 ## CEH Practical Exam Questions:
 https://cutt.ly/ceh-practical-git-udy
 
-Contact Me📨 for In-person Training/Queries: sendmehi@outlook.com
+Contact Me📨 for In-person Training/Queries: sudhanshuplawat@gmail.com
